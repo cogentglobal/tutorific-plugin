@@ -1,0 +1,7 @@
+{
+  "name": "tutorific",
+  "version": "0.1.0",
+  "author": "Collaboration Studio",
+  "description": "AI study companion — Socratic tutoring, practice tests, spot quizzes, study notes, study & exam planning, and parent readiness checks. Backed by the Tutorific MCP server for per-student data.",
+  "keywords": ["tutoring", "education", "study", "exam-prep", "homework", "parent", "CAPS", "students"]
+}

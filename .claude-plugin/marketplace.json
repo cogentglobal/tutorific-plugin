@@ -1,0 +1,12 @@
+{
+  "name": "tutorific-marketplace",
+  "owner": "cogentglobal",
+  "plugins": [
+    {
+      "name": "tutorific",
+      "source": {
+        "path": "."
+      }
+    }
+  ]
+}
