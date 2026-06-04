@@ -1,12 +1,13 @@
 {
   "name": "tutorific-marketplace",
-  "owner": "cogentglobal",
+  "description": "Tutorific — AI study companion: Socratic tutoring, practice tests, study & exam planning, and parent readiness checks.",
+  "owner": {
+    "name": "cogentglobal"
+  },
   "plugins": [
     {
       "name": "tutorific",
-      "source": {
-        "path": "."
-      }
+      "source": "./"
     }
   ]
 }
